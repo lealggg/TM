@@ -1,0 +1,4 @@
+0 la bna
+1 espera
+2 dispara
+3 paz
